@@ -10,3 +10,5 @@ xlrd
 time
 os
 sys
+# upload the excel sheet with phone numbers. There should not be any headings or text other than phone numbers.
+# This is vaild for indian phone numbers, as the country code is given as +91 default. If you want to change, change it in main.py file
